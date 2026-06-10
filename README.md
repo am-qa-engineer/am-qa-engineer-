@@ -102,8 +102,8 @@ I'm a passionate **Software QA Engineer** with **1–2 years of experience** in 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?am-qa-engineer=am-qa-engineer&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?am-qa-engineer=am-qa-engineer&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am-qa-engineer&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am-qa-engineer&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
