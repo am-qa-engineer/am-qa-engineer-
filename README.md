@@ -1,4 +1,4 @@
-# am-qa-engineer-# 👋 Hi, I'm amal
+# 👋 Hi, I'm amal
 
 ### 🧪 QA Engineer | Manual & Automation Testing | Java | Selenium | API Testing | CI/CD
 
@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software QA Engineer** with 1–2 years of experience in both manual and automation testing. I specialize in building robust test frameworks, identifying critical bugs, and integrating quality checks directly into CI/CD pipelines — ensuring software ships with confidence.
+I'm a passionate **Software QA Engineer** with **1–2 years of experience** in both manual and automation testing. I specialize in building robust test frameworks, identifying critical bugs, and integrating quality checks directly into CI/CD pipelines — ensuring software ships with confidence.
 
 - 🔭 Currently working on: Expanding automation coverage with Selenium + TestNG
 - 🌱 Learning: Performance testing with JMeter, Docker-based test environments
 - 💬 Ask me about: STLC, defect lifecycle, Selenium POM, RestAssured, GitHub Actions
 - 📍 Based in: Kerala, India
-- 📧 Reach me at: amalpr16799@gmail.com
+- 📧 Reach me at: **amalpr16799@gmail.com**
 
 ---
 
@@ -102,8 +102,8 @@ I'm a passionate **Software QA Engineer** with 1–2 years of experience in both
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?am-qa-engineer&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am-qa-engineer&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?am-qa-engineer=am-qa-engineer&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?am-qa-engineer=am-qa-engineer&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -116,3 +116,4 @@ I'm a passionate **Software QA Engineer** with 1–2 years of experience in both
 ---
 
 *"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin*
+
